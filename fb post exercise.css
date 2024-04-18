@@ -1,0 +1,98 @@
+#text {
+
+    width: 50%;
+    height:10%;
+    
+    
+}
+
+textarea {
+
+    font-style: normal;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5 {
+
+        width: ;
+}
+
+
+#backgroundColor {
+
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+   
+
+
+}
+
+
+
+
+P {
+
+    padding-top: 10px;
+    text-align: center;
+    width: 50%;
+    height: auto;
+    min-height: 20%;
+    color: white;
+    border-radius: 5px;
+    text-transform: capitalize;
+    
+}
+
+
+#div1{
+        border-radius: 7px;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        margin-inline: 12px;
+        margin-top: 10px;
+       
+}
+
+#div2{
+        border-radius: 7px;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        margin-inline: 12px;
+        margin-top: 10px;
+        
+}
+
+#div3{
+        border-radius: 7px;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        margin-inline: 12px;
+        margin-top: 10px;
+    
+}
+
+#div4{
+        border-radius: 7px;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        margin-inline: 12px;
+        margin-top: 10px;
+       
+}
+
+#div5{
+        border-radius: 7px;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        margin-inline: 12px;
+        margin-top: 10px;
+       
+}
